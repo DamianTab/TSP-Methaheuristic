@@ -1,0 +1,6 @@
+Nazwa		Najlepszy Wynik| Najgorszy Wynik | Ilosc uruchomien | Wartosc Srednia | Czy Cykl jest dobry? |Cykl
+berlin52.txt	999999	0	0	0	false	CYKL
+bier127.txt	999999	0	0	0	false	CYKL
+tsp250.txt	999999	0	0	0	false	CYKL
+tsp500.txt	999999	0	0	0	false	CYKL
+tsp1000.txt	999999	0	0	0	false	CYKL
